@@ -4,6 +4,6 @@
 int add(int c, int d);
 int is_equal(int c, int d);
 int power(int base, int exp);
-int magnitude(int y);  // <- your new function
+int mag(int y);  
 
 #endif

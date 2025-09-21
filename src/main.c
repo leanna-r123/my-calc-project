@@ -3,6 +3,6 @@
 
 int main(void) {
     int num = -21;
-    printf("The magnitude of %d is %d\n", num, magnitude(num));
+    printf("The magnitude of -21 is %d\n", mag(-21));
     return 0;
 }

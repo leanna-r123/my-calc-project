@@ -1,6 +1,6 @@
 #include "calc.h"
 #include <stdlib.h>
 
-int magnitude(int y) {
-    return abs(y);
+int mag(int y) {
+    return abs_value(y);
 }
